@@ -1,4 +1,4 @@
-                         Hey 👋, This is AAYUSH VISHWAKARMA
+                         Hey 👋, THIS IS AAYUSH VISHWAKARMA
   
 A frontend developer from India
 
@@ -13,6 +13,7 @@ A frontend developer from India
 📫 How to reach me developerayu@gmail.com
 
 ⚡ other than above Gamer🎮.
+
   BGMI - arogarantayu
 
 
