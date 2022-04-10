@@ -1,4 +1,4 @@
-                         Hey 👋, THIS IS AAYUSH VISHWAKARMA
+           Hey 👋, THIS IS AAYUSH VISHWAKARMA
   
 A frontend developer from India
 
