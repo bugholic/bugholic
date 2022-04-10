@@ -13,6 +13,10 @@ A frontend developer from India FRINZO
 
 ⚡ other than above Gamer🎮.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Frinzoayu&repo=README.md)](https://github.com/Frinzoayu/README.md)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Frinzoayu&repo=README.md)](https://github.com/Frinzoayu/README.md) -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Frinzoayu&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+                                MY SOCIALS
+<a href="https://www.flaticon.com/free-icons/instagram" title="instagram">Instagram</a>
+<a href="https://www.flaticon.com/free-icons/telegram" title="telegram">Telegram</a>
