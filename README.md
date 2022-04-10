@@ -12,3 +12,6 @@ A frontend developer from India FRINZO
 📫 How to reach me webdeveloperayu@gmail.com
 
 ⚡ other than above Gamer🎮.
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Frinzoayu&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
