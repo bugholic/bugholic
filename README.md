@@ -17,5 +17,4 @@ A frontend developer from India FRINZO
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Frinzoayu&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
- MY SOCIALS
-<a href="https://www.flaticon.com/free-icons/instagram" title="instagram icons">Instagram icons created by Freepik - Flaticon</a>
+
