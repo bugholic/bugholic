@@ -18,5 +18,3 @@ A frontend developer from India FRINZO
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Frinzoayu&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-https://user-images.githubusercontent.com/72176709/162605415-da80f2b5-e309-49ab-82dc-84f82a9fbb16.mp4
-
