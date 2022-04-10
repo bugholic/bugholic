@@ -4,9 +4,9 @@ A frontend developer from India
 
 🔭 I’m currently working on FRONTEND WEB DESIGNING
 
-🌱 I’m currently learning Web Development 
+🌱 I’m currently learning WEB DEVELOPMENT
 
-👯 I’m looking to collaborate on WEB DESIGNI PROJECTS
+👯 I’m looking to collaborate on WEB DESIGNING PROJECTS
 
 🤝 I’m looking for help with WEB PAGE DESIGNS
 
