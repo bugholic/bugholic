@@ -1,9 +1,10 @@
- Hi 👋, I'm AAYUSH VISHWAKARMA
-A frontend developer from India FRINZO
+                         Hey 👋, This is AAYUSH VISHWAKARMA
+  
+A frontend developer from India
 
 🔭 I’m currently working on FRONTEND WEB DESIGNING
 
-🌱 I’m currently learning C , C++ & Web DeSIGNING
+🌱 I’m currently learning Web Development 
 
 👯 I’m looking to collaborate on WEB DESIGNI PROJECTS
 
