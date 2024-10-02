@@ -2,11 +2,11 @@
   
 A frontend developer from India
 
-🔭 I’m currently working on @react.js
+🔭 I’m currently working on @next.js
 
 🌱 I’m currently learning WEB DEVELOPMENT
 
-👯 I’m looking to collaborate on WEB DESIGNING PROJECTS
+👯 I’m looking to collaborate on Frontend and Backend PROJECTS
 
 🤝 I’m looking for help with WEB DESIGNING AND DEVELOPMENT
 
