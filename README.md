@@ -6,7 +6,7 @@ A frontend developer from India
 
 🌱 I’m currently learning WEB DEVELOPMENT
 
-👯 I’m looking to collaborate on Frontend and Backend PROJECTS
+👯 I’m looking to collaborate on Full Stack Projects.
 
 🤝 I’m looking for help with WEB DESIGNING AND DEVELOPMENT
 
@@ -16,7 +16,6 @@ A frontend developer from India
 
   BGMI - Hastarplayzz
   CLASH OF CLANS - #99YPOPOPO (level 105)
-  FREEFIRE - ID SOON!
   CALL OF DUTY - STRANGExAAYU
 <!-- 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Frinzoayu&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
