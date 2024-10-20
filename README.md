@@ -14,7 +14,7 @@ A frontend developer from India
 
 ⚡ other than above Gamer🎮.
 
-  BGMI - ZEDSTAG
+  BGMI - Hastarplayzz
   CLASH OF CLANS - #99YPOPOPO (level 105)
   FREEFIRE - ID SOON!
   CALL OF DUTY - STRANGExAAYU
