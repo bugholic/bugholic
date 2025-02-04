@@ -1,23 +1,42 @@
-           Hey 👋, THIS IS AAYUSH VISHWAKARMA
-  
-A frontend developer from India
+### Hi there, I'm Aayush [Bugholic]! 👋
 
-🔭 I’m currently working on @next.js
+![Profile Views](https://komarev.com/ghpvc/?username=bugholic&color=blue)
 
-🌱 I’m currently learning WEB DEVELOPMENT
+I am a passionate developer who loves to find and fix bugs. My journey in development has been filled with exciting challenges and learning opportunities. Here’s a little about me:
 
-👯 I’m looking to collaborate on Full Stack Projects.
+- 🔭 I’m currently working on next js projects.
+- 🌱 I’m always learning new technologies and improving my skills.
+- 👯 I’m looking to collaborate on interesting and challenging projects.
+- 💬 Ask me about web development, debugging, or any tech-related topic.
+- 📫 How to reach me: [developerayu@gmail.com](mailto:developerayu@gmail.com)
+- ⚡ Fun fact: I can spend hours getting to the root cause of a bug!
 
-🤝 I’m looking for help with WEB DESIGNING AND DEVELOPMENT
+### Skills and Technologies
 
-📫 How to reach me developerayu@gmail.com
+- **Languages:** JavaScript, Python, Java, AMPscript
+- **Web Development:** HTML, CSS, React, Node.js, Next, TailwindCSS, ShadCn
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Tools:** Git, Docker, Jenkins, VS Code
 
-⚡ other than above Gamer🎮.
+### GitHub Stats
 
-  BGMI - Hastarplayzz
-  CLASH OF CLANS - #99YPOPOPO (level 105)
-  CALL OF DUTY - STRANGExAAYU
-<!-- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Frinzoayu&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
- -->
+![Bugholic's GitHub stats](https://github-readme-stats.vercel.app/api?username=bugholic&count_private=true&show_icons=true&theme=radical)
 
+### Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bugholic&layout=compact&theme=radical)
+
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ayuv)
+
+### Recent Projects
+
+- [Project 1](https://github.com/bugholic/copyxcel) - A brief description of Project 1.
+- [Project 2](https://github.com/bugholic/saas-landing-page) - A brief description of Project 2.
+- [Project 3](https://github.com/bugholic/minimalSPA) - A brief description of Project 3.
+
+Feel free to check out my repositories and contribute to the projects you find interesting. Let’s connect and build something amazing together!
+
+
+You can copy this template and edit the sections to better reflect your experiences, projects, and interests.
