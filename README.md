@@ -32,9 +32,9 @@ I am a passionate developer who loves to find and fix bugs. My journey in develo
 
 ### Recent Projects
 
-- [Project 1](https://github.com/bugholic/copyxcel) - A brief description of Project 1.
-- [Project 2](https://github.com/bugholic/saas-landing-page) - A brief description of Project 2.
-- [Project 3](https://github.com/bugholic/minimalSPA) - A brief description of Project 3.
+- [Portfolio Example Page](https://github.com/bugholic/copyxcel) 
+- [Prompton](https://github.com/bugholic/Prompton) 
+- [Arog Job Portal](https://github.com/bugholic/jobPortalTS) 
 
 Feel free to check out my repositories and contribute to the projects you find interesting. Let’s connect and build something amazing together!
 
