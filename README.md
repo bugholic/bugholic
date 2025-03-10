@@ -32,7 +32,7 @@ I am a passionate developer who loves to find and fix bugs. My journey in develo
 
 ### Recent Projects
 
-- [Portfolio Example Page](https://github.com/bugholic/copyxcel) 
+- [CopyXcel](https://github.com/bugholic/copyxcel) 
 - [Prompton](https://github.com/bugholic/Prompton) 
 - [Arog Job Portal](https://github.com/bugholic/jobPortalTS) 
 
