@@ -37,6 +37,3 @@ I am a passionate developer who loves to find and fix bugs. My journey in develo
 - [Arog Job Portal](https://github.com/bugholic/jobPortalTS) 
 
 Feel free to check out my repositories and contribute to the projects you find interesting. Let’s connect and build something amazing together!
-
-
-You can copy this template and edit the sections to better reflect your experiences, projects, and interests.
