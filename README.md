@@ -7,10 +7,6 @@
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Tools:** Git, Docker, Jenkins, VS Code
 
-### GitHub Stats
-
-![Bugholic's GitHub stats](https://github-readme-stats.vercel.app/api?username=bugholic&count_private=true&show_icons=true&theme=radical)
-
 ### Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bugholic&layout=compact&theme=radical)
