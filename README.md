@@ -1,16 +1,5 @@
 ### Hi there, I'm Aayush [Bugholic]! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=bugholic&color=blue)
-
-I am a passionate developer who loves to find and fix bugs. My journey in development has been filled with exciting challenges and learning opportunities. Here’s a little about me:
-
-- 🔭 I’m currently working on next js projects.
-- 🌱 I’m always learning new technologies and improving my skills.
-- 👯 I’m looking to collaborate on interesting and challenging projects.
-- 💬 Ask me about web development, debugging, or any tech-related topic.
-- 📫 How to reach me: [developerayu@gmail.com](mailto:developerayu@gmail.com)
-- ⚡ Fun fact: I can spend hours getting to the root cause of a bug!
-
 ### Skills and Technologies
 
 - **Languages:** JavaScript, Python, Java, AMPscript
