@@ -1,4 +1,4 @@
-### Hi there, I'm Aayush [Bugholic]! 👋
+### Hi there, I'm Aayush! 👋
 
 ### Skills and Technologies
 
