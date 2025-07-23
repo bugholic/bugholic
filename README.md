@@ -2,8 +2,8 @@
 
 ### Skills and Technologies
 
-- **Languages:** JavaScript, Python, Java, AMPscript
-- **Web Development:** HTML, CSS, React, Node.js, Next, TailwindCSS, ShadCn
+- **Languages:** JavaScript,Typescript, Python
+- **Development:** React,React Native,Expo, Node.js, Nextjs, TailwindCSS, ShadCn
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Tools:** Git, Docker, Jenkins, VS Code
 
