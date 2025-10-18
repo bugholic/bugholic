@@ -15,11 +15,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ayuv)
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 ### Recent Projects
 
-- [CopyXcel](https://github.com/bugholic/copyxcel) 
-- [Prompton](https://github.com/bugholic/Prompton) 
-- [Arog Job Portal](https://github.com/bugholic/jobPortalTS) 
+-StrangeChat (https://github.com/bugholic/strangechat) 
+-CopyXcel (https://github.com/bugholic/copyxcel) 
 
 Feel free to check out my repositories and contribute to the projects you find interesting. Let’s connect and build something amazing together!
