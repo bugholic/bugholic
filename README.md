@@ -15,6 +15,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ayuv)
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 ### Recent Projects
 
 - [CopyXcel](https://github.com/bugholic/copyxcel) 
