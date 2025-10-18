@@ -17,7 +17,7 @@
 
 ### Recent Projects
 
--[StrangeChat](https://github.com/bugholic/strangechat)\n 
+-[StrangeChat](https://github.com/bugholic/strangechat)
 -[CopyXcel](https://github.com/bugholic/copyxcel) 
 
 Feel free to check out my repositories and contribute to the projects you find interesting. Let’s connect and build something amazing together!
