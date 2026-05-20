@@ -9,7 +9,7 @@
 
 ### PORTFOLIO
 
-[![Website](https://bugholic.vercel.app)]
+[Website](https://bugholic.vercel.app)
 
 ### Connect with me
 
