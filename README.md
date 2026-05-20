@@ -1,5 +1,9 @@
 ### Hi there, I'm Aayush! 👋
 
+Senior Software Engineer | AI Driven Developer
+
+Focused on creating solutions that actually solves real problems, Combining my Tech skills to real world logic and getting the solution driven product.
+
 ### Skills and Technologies
 
 - **Languages:** JavaScript,Typescript, Python
