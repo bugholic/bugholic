@@ -7,9 +7,9 @@
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Tools:** Git, Docker, Jenkins, VS Code
 
-### Top Languages
+### PORTFOLIO
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bugholic&layout=compact&theme=radical)
+[![Website](https://bugholic.vercel.app)]
 
 ### Connect with me
 
